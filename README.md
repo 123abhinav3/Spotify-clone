@@ -1,1 +1,2 @@
 # Spotify-clone
+A Spotify clone using HTML, CSS, and JavaScript replicates the core features of the music streaming platform. The project includes a user-friendly interface with a  playlist pages, and player controls. Users can play, pause,Skip to the next or previous track. Basic functionality is implemented with JavaScript, allowing interaction with audio files, while HTML structures the content, and CSS styles the application to create an attractive, intuitive user experience.
